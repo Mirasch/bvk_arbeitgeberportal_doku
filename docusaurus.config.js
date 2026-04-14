@@ -6,8 +6,8 @@ const config = {
   tagline: 'Benutzerhandbuch und Online-Dokumentation',
   favicon: 'img/favicon_bvk.ico',
 
-  url: 'https://deine-domain.ch',
-  baseUrl: '/',
+  url: 'https://Mirasch.github.io',
+  baseUrl: '/bvk_arbeitgeberportal_doku/',
 
   organizationName: 'bvk',
   projectName: 'arbeitgeberportal-docs',
