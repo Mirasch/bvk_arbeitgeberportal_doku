@@ -2,7 +2,7 @@
 id: tipps-und-hinweise
 title: Tipps & Hinweise
 sidebar_position: 5
-description: Nuetzliche Hinweise zu Mitteilungen, Profil und Vertragssicht.
+description: Nützliche Hinweise zu Mitteilungen, Profil und Vertragssicht.
 ---
 
 ## Mitteilungen
@@ -12,10 +12,10 @@ description: Nuetzliche Hinweise zu Mitteilungen, Profil und Vertragssicht.
 ![Mitteilungen](../img/mitteilungen.png)
 
 ## Mein Profil
-- Persoenliche E-Mail-Adresse fuer Login-Codes und Benachrichtigungen pflegen.
-- Einsicht in eigene Berechtigungen und zugewiesene Vertraege.
+- Persönliche E-Mail-Adresse für Login-Codes und Benachrichtigungen pflegen.
+- Einsicht in eigene Berechtigungen und zugewiesene Verträge.
 
 ![Mein Profil](../img/profil.png)
 
 ## Vertraege wechseln
-- Falls Sie mehrere Vertraege betreuen, koennen Sie via **Vertrag wechseln** zwischen ihnen umschalten.
+- Falls Sie mehrere Verträge betreuen, können Sie via **Vertrag wechseln** zwischen ihnen umschalten.

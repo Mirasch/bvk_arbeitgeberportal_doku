@@ -8,7 +8,7 @@ description: Zweistufige Anmeldung, Zeitueberschreitung und haeufige Login-Frage
 ## Anmeldung in drei Schritten
 1. **Benutzername & Passwort** eingeben und **Anmelden** klicken.
 2. **Sicherheitscode** aus E-Mail eingeben (Zweiter Faktor).
-3. **Vertrag auswaehlen** (falls mehrere Berechtigungen vorhanden).
+3. **Vertrag auswählen** (falls mehrere Berechtigungen vorhanden).
 
 ![Login](./img/login.png)
 

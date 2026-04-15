@@ -1,8 +1,8 @@
 ---
 id: rollen-und-berechtigungen
-title: Rollen & Berechtigungen (Ueberblick)
+title: Rollen & Berechtigungen (Überblick)
 sidebar_position: 2
-description: Ueberblick zu typischen Rollen und Rechten aus Endnutzersicht.
+description: Überblick zu typischen Rollen und Rechten aus Endnutzersicht.
 ---
 
 Typische Rollen im Arbeitgeberportal (Auswahl):

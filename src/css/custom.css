@@ -69,6 +69,21 @@
   font-weight: 700;
 }
 
+[data-theme='dark'] .navbar {
+  background-color: #0f1720;
+  backdrop-filter: blur(8px);
+}
+
+[data-theme='dark'] .navbar__title,
+[data-theme='dark'] .navbar__link,
+[data-theme='dark'] .navbar__toggle {
+  color: #ffffff;
+}
+
+[data-theme='dark'] .navbar__link--active {
+  color: #8bbcf0;
+}
+
 /* Footer */
 .footer {
   background: #004a99;
