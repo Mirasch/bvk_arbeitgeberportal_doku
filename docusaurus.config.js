@@ -9,8 +9,8 @@ const config = {
   url: 'https://Mirasch.github.io',
   baseUrl: '/bvk_arbeitgeberportal_doku/',
 
-  organizationName: 'bvk',
-  projectName: 'arbeitgeberportal-docs',
+  organizationName: 'Mirasch',
+  projectName: 'bvk_arbeitgeberportal_doku',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
