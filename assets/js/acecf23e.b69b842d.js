@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbvk_arbeitgeberportal_doku=globalThis.webpackChunkbvk_arbeitgeberportal_doku||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/bvk_arbeitgeberportal_doku/aktuelles","blogTitle":"Aktuelles","authorsListPath":"/bvk_arbeitgeberportal_doku/aktuelles/authors"}')}}]);
